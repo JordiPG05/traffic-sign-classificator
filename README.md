@@ -13,7 +13,7 @@ Aquí tienes una descripción general de los pasos involucrados en la resolució
 7. Evaluación del modelo: Evaluaremos el rendimiento del modelo entrenado en un conjunto de datos de prueba separado. Esto nos ayudará a evaluar su precisión y capacidades de generalización.
 8. Predicción y visualización: Utilizando el modelo entrenado, realizaremos predicciones sobre nuevos datos de prueba y compararemos las etiquetas originales con las predichas. Visualizaremos los resultados para obtener información sobre el rendimiento del modelo.
 
-9. [EN]
+[EN]
 The goal of this project is to create a deep learning model using TensorFlow that can accurately classify different classes of traffic signals. By harnessing the power of CNNs, we seek to develop a model capable of making smarter decisions in real-world scenarios, especially in the context of autonomous vehicles.
 
 Here is an overview of the steps involved in solving this traffic signal classification problem:
